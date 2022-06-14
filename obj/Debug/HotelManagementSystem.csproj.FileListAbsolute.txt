@@ -1,0 +1,15 @@
+C:\Users\shmue\source\repos\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+C:\Users\shmue\source\repos\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+C:\Users\shmue\source\repos\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+C:\Users\shmue\source\repos\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojAssemblyReference.cache
+C:\Users\shmue\source\repos\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form1.resources
+C:\Users\shmue\source\repos\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+C:\Users\shmue\source\repos\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+C:\Users\shmue\source\repos\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\shmue\source\repos\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+C:\Users\shmue\source\repos\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+C:\Users\shmue\source\repos\HotelManagementSystem\HotelManagementSystem\bin\Debug\Guna.UI2.dll
+C:\Users\shmue\source\repos\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CopyComplete
+C:\Users\shmue\source\repos\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Dashboard.resources
+C:\Users\shmue\source\repos\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.All_User_Controls.UC_AddRoom.resources
+C:\Users\shmue\source\repos\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.All_User_Controls.UC_CustomerRegistration.resources
